@@ -1,0 +1,12 @@
+{
+	"name": "carmine/my-first-dynamic-block",
+	"type": "wordpress-plugin",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Carmine Sasso",
+			"email": "sassocarmine84@gmail.com"
+		}
+	],
+	"require": {}
+}
